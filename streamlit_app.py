@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import plotly.express as px
 
 
-cars = pd.read_csv('venv\Car_Data.csv')
+cars = pd.read_csv('Car_Data.csv')
 
 st.title("Car Market Data Analysis Report")
 st.markdown("""
