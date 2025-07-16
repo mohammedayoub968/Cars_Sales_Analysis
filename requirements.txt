@@ -5,3 +5,4 @@ matplotlib
 seaborn
 scikit-learn
 pyngrok     # (فقط لو كنت تنوي تشغيله من colab أو external tunnel)
+plotly
